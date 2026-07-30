@@ -1,0 +1,21 @@
+id,student_profile,assessment_type,personality_trait_score,cognitive_ability_score,interest_alignment_score,motivation_clarity_score,strength_discovery_score,career_readiness_score,overall_career_intelligence,priority_action,stem_score,creative_score,business_score,social_score,grade_level,notes
+1,Anika Sharma,personality,85,80,88,76,90,82,84,Motivation Clarity,84,76,88,86,Grade 12,Strong analytical personality
+2,Rahul Mehta,cognitive,78,88,82,74,80,76,80,Motivation Clarity,92,78,82,81,Grade 11,High cognitive reasoning ability
+3,Priya Nair,interest,80,76,92,78,84,80,82,Cognitive Ability,80,88,88,92,Grade 12,Creative and social interest profile
+4,Arjun Patel,dmit,88,85,84,80,92,85,86,Interest Alignment,89,84,84,89,Grade 10,Strong multiple intelligence profile
+5,Sneha Reddy,motivation,76,72,80,88,78,74,78,Cognitive Ability,76,75,84,83,Grade 12,High intrinsic motivation score
+6,Vikram Singh,aptitude,90,92,86,80,88,86,87,Motivation Clarity,97,82,86,87,Grade 12,Exceptional cognitive aptitude
+7,Meena Iyer,emotional,72,68,78,74,76,70,73,Cognitive Ability,71,76,78,82,Grade 11,High emotional intelligence
+8,Kiran Kumar,values,80,76,84,78,82,80,80,Cognitive Ability,80,80,88,86,Grade 12,Strong values alignment
+9,Deepa Rao,personality,85,82,90,76,88,84,84,Motivation Clarity,86,86,88,90,Grade 12,Extroverted leadership profile
+10,Suresh Pillai,cognitive,74,90,78,70,76,74,77,Motivation Clarity,95,74,78,79,Grade 11,Top cognitive scores
+11,Ananya Krishnan,interest,78,74,94,80,82,78,81,Cognitive Ability,78,90,90,95,Grade 12,Arts and social career interest
+12,Rohit Verma,dmit,86,84,80,78,90,84,84,Interest Alignment,88,82,80,84,Grade 10,Fingerprint intelligence analysis
+13,Kavya Menon,motivation,72,70,76,90,74,72,76,Cognitive Ability,74,72,80,80,Grade 12,Motivation driven profile
+14,Aditya Joshi,aptitude,88,94,84,78,86,84,86,Motivation Clarity,99,80,84,87,Grade 12,Mathematics aptitude strength
+15,Riya Desai,emotional,76,72,82,76,80,74,77,Cognitive Ability,76,79,84,86,Grade 11,Strong empathy quotient
+16,Sanjay Nambiar,values,82,78,86,80,84,80,82,Cognitive Ability,82,83,88,88,Grade 12,Purpose-driven career values
+17,Pooja Sharma,personality,88,84,86,78,90,86,85,Motivation Clarity,88,83,86,88,Grade 12,Conscientious personality profile
+18,Nikhil Raj,cognitive,76,92,80,72,78,74,79,Motivation Clarity,97,76,80,80,Grade 11,Strong logical reasoning
+19,Swati Pillai,interest,80,76,92,80,84,80,82,Cognitive Ability,80,88,90,93,Grade 12,STEAM interest alignment
+20,Manoj Kumar,dmit,84,82,82,78,88,82,83,Motivation Clarity,86,80,82,85,Grade 10,Balanced intelligence profile
