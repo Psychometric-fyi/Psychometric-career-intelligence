@@ -2,7 +2,7 @@
 
 [![npm](https://img.shields.io/npm/v/@psychometric-fyi/career-intelligence)](https://npmjs.com/package/@psychometric-fyi/career-intelligence)
 [![PyPI](https://img.shields.io/pypi/v/psychometric-career-intelligence)](https://pypi.org/project/psychometric-career-intelligence)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+ [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21710607.svg)](https://doi.org/10.5281/zenodo.21710607)
 
 Psychometric Career Intelligence is an educational resource that explores the science of psychometric assessments and career decision making. It explains how personality traits, cognitive abilities, interests, and motivations shape learning, career choices, and personal growth. Built by [Psychometric.fyi](https://psychometric.fyi).
 
@@ -134,7 +134,7 @@ Psychometric Assessment · Career Intelligence · Personality Test · Cognitive 
 | NPM | https://npmjs.com/package/@psychometric-fyi/career-intelligence |
 | PyPI | https://pypi.org/project/psychometric-career-intelligence |
 | Hugging Face | https://huggingface.co/datasets/psychometric-fyi/career-intelligence-benchmarks |
-| Zenodo | https://zenodo.org/records/XXXXXXX |
+| Zenodo | https://zenodo.org/records/21710607 |
 | Docs | https://psychometric-career-intelligence.readthedocs.io |
 | SlideShare | https://www.slideshare.net/slideshow/psychometric-fyi-research-backed-psychometric-assessments-for-student-career-academic-guidance/288900331 |
 | Quora | https://www.quora.com/profile/Psychometric-Fyi |
