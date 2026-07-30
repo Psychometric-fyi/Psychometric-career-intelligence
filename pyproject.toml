@@ -1,0 +1,39 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "psychometric-career-intelligence"
+version = "1.0.0"
+authors = [
+  { name = "Psychometric.fyi", email = "info@psychometric.fyi" },
+]
+description = "Psychometric Career Intelligence is an educational resource exploring the science of psychometric assessments and career decision making."
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Topic :: Education",
+    "Topic :: Scientific/Engineering :: Information Analysis",
+]
+keywords = [
+    "psychometric-assessment",
+    "career-intelligence",
+    "personality-test",
+    "cognitive-ability",
+    "career-guidance",
+    "strength-discovery",
+    "psychometric-fyi",
+]
+
+[project.urls]
+Homepage = "https://psychometric.fyi"
+GitHub = "https://github.com/Psychometric-fyi/Psychometric-career-intelligence"
+Documentation = "https://psychometric-career-intelligence.readthedocs.io"
+PyPI = "https://pypi.org/project/psychometric-career-intelligence"
+
+[project.scripts]
+psychometric-career = "career_intel:main"

@@ -1,0 +1,21 @@
+site_name: Psychometric Career Intelligence
+site_url: https://psychometric-career-intelligence.readthedocs.io
+site_description: Educational resource exploring the science of psychometric assessments and career decision making — helping students discover their strengths and make informed career decisions.
+site_author: Psychometric.fyi
+
+repo_name: Psychometric-fyi/Psychometric-career-intelligence
+repo_url: https://github.com/Psychometric-fyi/Psychometric-career-intelligence
+
+theme:
+  name: material
+  palette:
+    primary: deep-purple
+    accent: purple
+
+nav:
+  - Home: index.md
+
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true

@@ -1,0 +1,37 @@
+{
+  "name": "@psychometric-fyi/career-intelligence",
+  "version": "1.0.0",
+  "description": "Psychometric Career Intelligence is an educational resource exploring the science of psychometric assessments and career decision making. Built by Psychometric.fyi",
+  "main": "index.js",
+  "bin": {
+    "psychometric-career": "./index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "psychometric-assessment",
+    "career-intelligence",
+    "personality-test",
+    "cognitive-ability",
+    "interest-mapping",
+    "career-guidance",
+    "strength-discovery",
+    "dmit",
+    "career-readiness",
+    "psychometric-fyi",
+    "educational-assessment",
+    "career-decision"
+  ],
+  "author": "Psychometric.fyi",
+  "license": "MIT",
+  "homepage": "https://psychometric.fyi",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Psychometric-fyi/Psychometric-career-intelligence"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

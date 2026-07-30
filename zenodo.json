@@ -1,0 +1,72 @@
+{
+  "title": "Psychometric Career Intelligence",
+  "description": "Psychometric Career Intelligence is an educational resource that explores the science of psychometric assessments and career decision making. It explains how personality traits, cognitive abilities, interests, and motivations shape learning, career choices, and personal growth. Built by Psychometric.fyi.",
+  "creators": [
+    {
+      "name": "Psychometric.fyi"
+    }
+  ],
+  "keywords": [
+    "psychometric assessment",
+    "career intelligence",
+    "personality test",
+    "cognitive ability",
+    "interest mapping",
+    "career guidance",
+    "strength discovery",
+    "DMIT",
+    "career readiness",
+    "Psychometric.fyi"
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "doi": "10.5281/zenodo.XXXXXXX",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/Psychometric-fyi/Psychometric-career-intelligence",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://psychometric.fyi",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://npmjs.com/package/@psychometric-fyi/career-intelligence",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://pypi.org/project/psychometric-career-intelligence",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://huggingface.co/datasets/psychometric-fyi/career-intelligence-benchmarks",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.slideshare.net/slideshow/psychometric-fyi-research-backed-psychometric-assessments-for-student-career-academic-guidance/288900331",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.quora.com/profile/Psychometric-Fyi",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.pinterest.com/psychometricfyi/",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://medium.com/@psychometric-fyi",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

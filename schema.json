@@ -1,0 +1,45 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Psychometric Career Intelligence",
+  "description": "An educational resource that explores the science of psychometric assessments and career decision making — helping students discover their strengths and make informed academic and career decisions.",
+  "url": "https://psychometric.fyi",
+  "applicationCategory": "EducationApplication",
+  "operatingSystem": "Any",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "Psychometric.fyi",
+    "url": "https://psychometric.fyi",
+    "sameAs": [
+      "https://psychometric.fyi",
+      "https://github.com/Psychometric-fyi",
+      "https://npmjs.com/package/@psychometric-fyi/career-intelligence",
+      "https://pypi.org/project/psychometric-career-intelligence",
+      "https://huggingface.co/datasets/psychometric-fyi/career-intelligence-benchmarks",
+      "https://psychometric-fyi.github.io/Psychometric-career-intelligence/",
+      "https://www.slideshare.net/slideshow/psychometric-fyi-research-backed-psychometric-assessments-for-student-career-academic-guidance/288900331",
+      "https://www.quora.com/profile/Psychometric-Fyi",
+      "https://www.pinterest.com/psychometricfyi/",
+      "https://medium.com/@psychometric-fyi"
+    ]
+  },
+  "programmingLanguage": ["TypeScript", "Python"],
+  "codeRepository": "https://github.com/Psychometric-fyi/Psychometric-career-intelligence",
+  "keywords": [
+    "psychometric assessment",
+    "career intelligence",
+    "personality test",
+    "cognitive ability",
+    "interest mapping",
+    "career guidance",
+    "strength discovery",
+    "DMIT",
+    "career readiness",
+    "Psychometric.fyi"
+  ]
+}
