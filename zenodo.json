@@ -21,7 +21,7 @@
   "license": "MIT",
   "upload_type": "software",
   "access_right": "open",
-  "doi": "10.5281/zenodo.XXXXXXX",
+ "doi": "10.5281/zenodo.21710607",
   "related_identifiers": [
     {
       "identifier": "https://github.com/Psychometric-fyi/Psychometric-career-intelligence",
@@ -62,7 +62,11 @@
       "identifier": "https://www.pinterest.com/psychometricfyi/",
       "relation": "isSupplementTo",
       "scheme": "url"
-    },
+    },{
+  "identifier": "https://zenodo.org/records/21710607",
+  "relation": "isIdenticalTo",
+  "scheme": "url"
+},
     {
       "identifier": "https://medium.com/@psychometric-fyi",
       "relation": "isSupplementTo",
